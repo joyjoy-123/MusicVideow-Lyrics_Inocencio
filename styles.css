@@ -1,0 +1,80 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  text-align: center; 
+}
+.background {
+  background-image: url('951c3a36a42573c8346ece596e6b225a.gif');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  height: 400vh; 
+  overflow: auto;
+}
+
+.heading1 {
+  color: white;
+  font-family: "Times New Roman";
+}
+
+.heading2 {
+  color: white; 
+  font-family: Times New Roman;
+}
+.audio-player {
+  max-width: 360px;
+  margin: 50px auto; 
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  text-align: center; 
+}
+
+.audio-player img {
+  width: 100%;
+  border-radius: 10px;
+}
+
+.audio-player audio {
+  width: 100%;
+  margin-top: 10px;
+}
+
+.lyrics {
+  font-family: Times New Roman;
+  margin-top: 20px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  max-height: 200px;
+  overflow: auto;
+  text-align: center;
+}
+.lyrics-container {
+  max-width: 800px; 
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.lyrics p {
+  margin: 0;
+  padding: 5px 0;
+  line-height: 2;align-self: 
+  color:white;
+}
+.image-size {
+  width: 200px;
+  height: 200px;
+}
+.squircle {
+  border-radius: 20%;
+} 
+body {
+  background-image: url('/storage/emulated/0/audio(2)/951c3a36a42573c8346ece596e6b225a.gif');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed; /* Optional: Fixed background */
+}
